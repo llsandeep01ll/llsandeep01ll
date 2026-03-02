@@ -13,24 +13,30 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260">
 </p>
 
-<!-- 🌐 SOCIAL ICONS -->
+
+
+## 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/sandeep-n-v/" title="LinkedIn">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="42"/>
+  <a href="https://www.linkedin.com/in/sandeep-n-v/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/llsandeep01ll" title="GitHub">
-    <img src="https://img.icons8.com/fluency/48/github.png" width="42"/>
+  &nbsp;&nbsp;
+  <a href="mailto:ll.sandeep01.ll@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://sandeepnvdev.lovable.app/" title="Portfolio">
-    <img src="https://img.icons8.com/fluency/48/domain.png" width="42"/>
+  &nbsp;&nbsp;
+  <a href="https://github.com/llsandeep01ll">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:ll.sandeep01.ll@gmail.com" title="Email">
-    <img src="https://img.icons8.com/fluency/48/new-post.png" width="42"/>
+  &nbsp;&nbsp;
+  <a href="https://sandeepnvdev.lovable.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
+
+
+
 
 ---
 
@@ -98,19 +104,6 @@
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sandeep-n-v/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ll.sandeep01.ll@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/llsandeep01ll">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
