@@ -37,10 +37,9 @@
 
 ## 🧭 About Me
 
-🎓 Final-year Information Science Engineering student at **RNS Institute of Technology** (CGPA: 8.8)  
 💻 Passionate about building scalable web applications and AI-driven systems  
 🚀 Strong foundation in full-stack development, OOP, and databases  
-🌱 Exploring Generative AI & production-ready architectures  
+🌱 Exploring AI & production-ready architectures  
 
 ---
 
