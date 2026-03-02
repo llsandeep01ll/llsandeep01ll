@@ -136,3 +136,9 @@ An intelligent system for automated damage detection:
 ## 💡 Personal Motto
 
 ✨ *“Technology is best when it solves real problems and brings people together.”*
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/llsandeep01ll/llsandeep01ll/output/snake.svg" alt="Snake animation" />
+</p>
