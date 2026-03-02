@@ -77,17 +77,17 @@
 ### 🌾 Krishi Sahaayak — Smart Farming Assistant
 ✔ Real-time farm monitoring & productivity insights  
 ✔ Improved decision-making using live data  
-🔗 Repo: *(Add link)* 
+🔗 Repo: (https://github.com/llsandeep01ll/Krishi-Sahaayak.git)
 
 ### 🤖 Gemini API Clone
 ✔ Secure API integration with real-time responses  
 ✔ Fully responsive modern UI  
-🔗 Repo: *(Add link)*  
+🔗 Repo: (https://github.com/llsandeep01ll/Gemini_API_Clone.git)
 
 ### 🚗 AutoXpert — AI Vehicle Damage Detection
 ✔ Automated damage detection using deep learning  
 ✔ Reduced manual inspection effort  
-🔗 Repo: *(Add link)*  
+🔗 Repo: (https://github.com/llsandeep01ll/AutoXpert.git)  
 
 ---
 
