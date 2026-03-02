@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 
-# 🚀 Sandeep N V
+#  Sandeep N V
 ###   Full-Stack Developer |  AI Enthusiast
 
 💡 Building scalable applications • 🤖 AI-powered solutions • 🌍 Real-world impact  
