@@ -1,16 +1,121 @@
-## Hi there 👋
+<!-- ================= HEADER ================= -->
 
-<!--
-**llsandeep01ll/llsandeep01ll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 Sandeep N V
+###  Full-Stack Developer | Generative AI Enthusiast
 
-Here are some ideas to get you started:
+💡 Building scalable applications • 🤖 AI-powered solutions • 🌍 Real-world impact  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+Enthusiast;Building+Impact+with+Code&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260">
+</p>
+
+<!-- 🌐 SOCIAL ICONS -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/sandeep-n-v/" title="LinkedIn">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="42"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/llsandeep01ll" title="GitHub">
+    <img src="https://img.icons8.com/fluency/48/github.png" width="42"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://sandeepnvdev.lovable.app/" title="Portfolio">
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="42"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ll.sandeep01.ll@gmail.com" title="Email">
+    <img src="https://img.icons8.com/fluency/48/new-post.png" width="42"/>
+  </a>
+</p>
+
+---
+
+## 🧭 About Me
+
+💻 Passionate about building scalable web applications and AI-driven systems  
+🚀 Strong foundation in full-stack development, OOP, and databases  
+🌱 Exploring Generative AI & production-ready architectures  
+
+---
+
+
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
+  <img src="https://skillicons.dev/icons?i=express" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/>
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🌾 Krishi Sahaayak — Smart Farming Assistant
+✔ Real-time farm monitoring & productivity insights  
+✔ Improved decision-making using live data  
+🔗 Repo: *(Add link)* 
+
+### 🤖 Gemini API Clone
+✔ Secure API integration with real-time responses  
+✔ Fully responsive modern UI  
+🔗 Repo: *(Add link)*  
+
+### 🚗 AutoXpert — AI Vehicle Damage Detection
+✔ Automated damage detection using deep learning  
+✔ Reduced manual inspection effort  
+🔗 Repo: *(Add link)*  
+
+---
+
+## 🌍 Leadership & Community Impact
+
+👑 **President — Rotaract Club, SRNGS Boys Hostel**
+- Led and organized social initiatives, increasing community participation.
+- Coordinated team activities and events, strengthening collaboration and leadership skills.
+- Managed event planning and execution, ensuring smooth operations and positive impact.
+
+🤝 **Volunteer — VTVO**
+- Served as a scribe for visually impaired students, enabling accessible examinations.
+- Contributed to cultural and social events for senior citizens, promoting community engagement.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sandeep-n-v/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ll.sandeep01.ll@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/llsandeep01ll">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+
+
+## 💡 Personal Motto
+
+✨ *“Technology is best when it solves real problems and brings people together.”*
