@@ -85,7 +85,7 @@ An AI-driven farming assistant integrating:
 - 📊 Productivity analytics for informed decision-making  
 - 📱 User-friendly dashboard for farmers  
 
-**Tech Stack:** `Python` `Machine Learning` `Flask` `IoT`
+**Tech Stack:** `MongoDB` `Express.js` `React.js` `Node.js`
 
 ---
 
@@ -96,7 +96,7 @@ A modern AI-powered web application enabling:
 - 🔐 Secure API integration  
 - 📱 Fully responsive UI  
 
-**Tech Stack:** `React.js` `Node.js` `Express.js` `Gemini API`
+**Tech Stack:** `React.js`  `Gemini API`
 
 ---
 
@@ -107,7 +107,7 @@ An intelligent system for automated damage detection:
 - ⚡ Faster and more accurate inspection  
 - 📉 Reduces manual assessment effort  
 
-**Tech Stack:** `Python` `OpenCV` `PyTorch` `CNN`
+**Tech Stack:** `Python` `Deep Learning` `ConvNxT` `YOLO`  `MobileNet`
 
 ---
 
